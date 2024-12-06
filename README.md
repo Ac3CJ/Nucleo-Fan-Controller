@@ -23,10 +23,21 @@ This project features a fan controller board designed using the NUCLEO-F070RB de
 - [Features](#features)  
 - [Modes of Operation](#modes-of-operation)  
 - [Interfaces](#interfaces)  
+  - [User Inputs](#user-inputs)  
+  - [Visual Outputs](#visual-outputs)  
 - [Display Functionality](#display-functionality)  
 - [Setup](#setup)  
 - [Usage](#usage)  
-- [License](#license)  
+  - [Pin Connections Overview](#pin-connections-overview)  
+    - [LCD Pin Connections](#lcd-pin-connections)  
+    - [7-Segment Display Pin Connections](#7-segment-display-pin-connections)  
+    - [Temperature Sensor Pin Connections](#temperature-sensor-pin-connections)  
+- [References](#references)  
+  - [Hardware Components](#hardware-components)  
+- [FAQ](#faq)  
+- [Contact Us](#contact-us)  
+- [Authors](#authors)  
+- [License](#license)
 
 ---
 
@@ -193,22 +204,22 @@ The fan controller board provides robust control over fan operation, supporting 
 
 ---
 
-## Contact Us
+## References
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us:
+### Hardware Components  
 
-- Email: [cjg75@bath.ac.uk](mailto:cjg75@bath.ac.uk)
-- GitHub Issues: [GitHub Issues Page](https://github.com/Ac3CJ/Nucleo-Fan-Controller/issues)
+- **Development Board**: [NUCLEO-F070RB](https://www.st.com/en/evaluation-tools/nucleo-f070rb.html)  
 
----
+- **7-Segment Display**: [HDSP-521E](https://mou.sr/41oOO6A)  
 
-## Authors
+- **LCD Module**: [ST7066U](https://www.winstar.com.tw/products/character-lcd-display-module/lcd-display-16x2.html)  
 
-This project was developed by:
+- **Temperature Sensor**: [TC74](https://www.microchip.com/en-us/product/tc74)  
 
-- **Conrad Gacay** - [Ac3CJ](https://github.com/Ac3CJ)
+- **Extension Board**: The custom extension board used in this project can be obtained by contacting the [University of Bath - Department of Electrical and Electronic Engineering](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/).  
 
-Feel free to reach out for any collaboration or questions!
+### Notes
+Ensure compatibility of these parts with your specific requirements and availability from trusted vendors.  
 
 ---
 
@@ -228,22 +239,22 @@ A: Ensure that the power supply is turned on and that there is a valid connectio
 
 ---
 
-## References
+## Contact Us
 
-### Hardware Components  
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
 
-- **Development Board**: [NUCLEO-F070RB](https://www.st.com/en/evaluation-tools/nucleo-f070rb.html)  
+- Email: [cjg75@bath.ac.uk](mailto:cjg75@bath.ac.uk)
+- GitHub Issues: [GitHub Issues Page](https://github.com/Ac3CJ/Nucleo-Fan-Controller/issues)
 
-- **7-Segment Display**: [HDSP-521E](https://mou.sr/41oOO6A)  
+---
 
-- **LCD Module**: [ST7066U](https://www.winstar.com.tw/products/character-lcd-display-module/lcd-display-16x2.html)  
+## Authors
 
-- **Temperature Sensor**: [TC74](https://www.microchip.com/en-us/product/tc74)  
+This project was developed by:
 
-- **Extension Board**: The custom extension board used in this project can be obtained by contacting the [University of Bath - Department of Electrical and Electronic Engineering](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/).  
+- **Conrad Gacay** - [Ac3CJ](https://github.com/Ac3CJ)
 
-### Notes
-Ensure compatibility of these parts with your specific requirements and availability from trusted vendors.  
+Feel free to reach out for any collaboration or questions!
 
 ---
 
