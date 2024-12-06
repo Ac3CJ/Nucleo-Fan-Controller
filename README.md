@@ -228,10 +228,29 @@ A: Ensure that the power supply is turned on and that there is a valid connectio
 
 ---
 
-<p align="center">🤖 Made with ChatGPT 🤖</p>
+## References
+
+### Hardware Components  
+
+- **Development Board**: [NUCLEO-F070RB](https://www.st.com/en/evaluation-tools/nucleo-f070rb.html)  
+
+- **7-Segment Display**: [HDSP-521E](https://mou.sr/41oOO6A)  
+
+- **LCD Module**: [ST7066U](https://www.winstar.com.tw/products/character-lcd-display-module/lcd-display-16x2.html)  
+
+- **Temperature Sensor**: [TC74](https://www.microchip.com/en-us/product/tc74)  
+
+- **Extension Board**: The custom extension board used in this project can be obtained by contacting the [University of Bath - Department of Electrical and Electronic Engineering](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/).  
+
+### Notes
+Ensure compatibility of these parts with your specific requirements and availability from trusted vendors.  
+
+---
 
 ## License  
 
 This project is licensed under the [MIT License](LICENSE).  
 
 --- 
+
+<p align="center">🤖 Made with ChatGPT 🤖</p>
