@@ -3,12 +3,12 @@
 
 <div align="center">
   
-![Contributors](https://img.shields.io/github/contributors/Ac3CJ/Nucleo-Fan-Controller)
-![GitHub stars](https://img.shields.io/github/stars/Ac3CJ/Nucleo-Fan-Controller?style=flat-square)
+[![Contributors](https://img.shields.io/github/contributors/Ac3CJ/Nucleo-Fan-Controller)](https://github.com/Ac3CJ/Nucleo-Fan-Controller/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/Ac3CJ/Nucleo-Fan-Controller?style=flat-square)](https://github.com/Ac3CJ/Nucleo-Fan-Controller/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ac3CJ/Nucleo-Fan-Controller)](https://github.com/Ac3CJ/Nucleo-Fan-Controller/forks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conradgacay/)
-![Issues](https://img.shields.io/github/issues/Ac3CJ/Nucleo-Fan-Controller)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+[![Issues](https://img.shields.io/github/issues/Ac3CJ/Nucleo-Fan-Controller)](https://github.com/Ac3CJ/Nucleo-Fan-Controller/issues)
+[![Build Status](https://github.com/Ac3CJ/Nucleo-Fan-Controller/actions/workflows/main.yml/badge.svg)](https://github.com/Ac3CJ/Nucleo-Fan-Controller/actions)
 ![License](https://img.shields.io/badge/license-MIT-blue)
   
 </div>
