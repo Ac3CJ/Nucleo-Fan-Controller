@@ -1,13 +1,17 @@
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/6475/6475231.png" alt="FAN Logo" width="100"></p>
 <h1 align="center"> Fan Controller Board </h1>
 
+<div align="center">
+  
 ![Contributors](https://img.shields.io/github/contributors/Ac3CJ/Nucleo-Fan-Controller)
-![GitHub stars](https://img.shields.io/github/stars/Ac3CJ/Nucleo-Fan-Controller?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ac3CJ/Nucleo-Fan-Controller?style=social)
-![Issues](https://github.com/Ac3CJ/Nucleo-Fan-Controller/issues)
-![LinkedIn](https://www.linkedin.com/in/conradgacay/)
+![GitHub stars](https://img.shields.io/github/stars/Ac3CJ/Nucleo-Fan-Controller?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/Ac3CJ/Nucleo-Fan-Controller)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conradgacay/)
+![Issues](https://img.shields.io/github/issues/Ac3CJ/Nucleo-Fan-Controller)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+  
+</div>
 
 This project features a fan controller board designed using the NUCLEO-F070RB development board. The board offers three modes of operation, allowing users to control and monitor the fan's behavior through various user interfaces.
 
@@ -223,6 +227,8 @@ A: Change the resistance on the 460Ohm potentiometer and check the connections.
 A: Ensure that the power supply is turned on and that there is a valid connection into the banana sockets on the extension board.
 
 ---
+
+<p align="center">🤖 Made with ChatGPT 🤖</p>
 
 ## License  
 
