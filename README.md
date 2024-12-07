@@ -213,7 +213,7 @@ The fan controller board provides robust control over fan operation, supporting 
 
 - **Temperature Sensor**: [TC74](https://www.microchip.com/en-us/product/tc74)  
 
-- **Extension Board**: The custom extension board used in this project can be obtained by contacting the [University of Bath - Department of Electrical and Electronic Engineering](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/).  
+- **Extension Board**: The custom extension board used in this project can be obtained by contacting the [University of Bath - Department of Electrical and Electronic Engineering](https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/)
 
 ### Notes
 Ensure compatibility of these parts with your specific requirements and availability from trusted vendors.  
