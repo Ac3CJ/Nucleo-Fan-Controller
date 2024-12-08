@@ -234,6 +234,12 @@ A: Change the resistance on the 460Ohm potentiometer and check the connections.
 ### Q: The fan is plugged in but is not spinning.
 A: Ensure that the power supply is turned on and that there is a valid connection into the banana sockets on the extension board.
 
+### Q: The temperature sensor is not displaying the right temperature.
+A: The connections are incorrect, the SDA and SCLK do not have the correct pull up resistor, it is a faulty device, or there is interference with other signals from long leads.
+
+### Q: How can I prevent signal interference?
+A: Ensure that the power supplies for the device and fan are separate, this is commonly found when using a USB DC-DC converter on a PC with the power cable for the development board coming from the PC as well.
+
 ---
 
 ## Contact Us
