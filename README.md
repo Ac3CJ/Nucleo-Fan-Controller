@@ -77,7 +77,7 @@ The fan controller board provides robust control over fan operation, supporting 
 
 3. **Closed Loop Control with Temperature Measurements**:  
    - The fan speed adjusts automatically based on the measured temperature.  
-   - No rotary encoder input is needed in this mode.  
+   - Target Temperature can be set with the rotary encoder
 
 ---
 
@@ -126,7 +126,7 @@ The fan controller board provides robust control over fan operation, supporting 
 
 - Connect the extension board to the left set of header pins.
 - Connect all IOs as labelled below.
-- Setup the circuit as shown below
+- Setup the circuit and ensure that a 5V supply (from the board or elsewhere) is connected to the devices except for the fan.
 - Using a USB Mini B, upload the supported .bin to the development board to program it.
 - Connect a 12V supply to the power connectors on the extension board
 - Connect the fan to the board.
