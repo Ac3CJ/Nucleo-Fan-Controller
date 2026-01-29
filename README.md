@@ -265,6 +265,4 @@ Feel free to reach out for any collaboration or questions!
 
 This project is licensed under the [MIT License](LICENSE).  
 
---- 
-
-<p align="center">🤖 Made with ChatGPT 🤖</p>
+---
